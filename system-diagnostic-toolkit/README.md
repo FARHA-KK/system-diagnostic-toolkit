@@ -51,7 +51,7 @@ System-Diagnostic-Toolkit/
 ├── network_info.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
+└── .gitignore
 ```
 
 ---
